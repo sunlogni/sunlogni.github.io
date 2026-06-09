@@ -65,5 +65,5 @@ window.CODES = {
  }
 };
 window.ALIAS = {"todesk": "ToDesk", "anydesk": "AnyDesk", "teamviewer": "TeamViewer", "tv": "TeamViewer", "rustdesk": "RustDesk", "rdp": "微軟遠端桌面", "微軟": "微軟遠端桌面", "遠端桌面": "微軟遠端桌面", "chrome": "Chrome 遠端桌面", "谷歌": "Chrome 遠端桌面", "快速協助": "Windows 快速協助", "向日葵": "向日葵", "sunlogin": "向日葵", "oray": "向日葵"};
-window.LABELS={cat:"",msg:"廠商/定位",self:"免費額度",hw:"付費方案與核心能力",tip:"適合誰",scene:"注意/坑",miss:"未收錄該產品，換個名字或看下方全量對照表。"};
-window.THEAD=["產品","類型","免費額度","付費方案與核心能力"];
+window.LABELS = {"cat": "", "msg": "廠商/定位", "self": "免費額度", "hw": "付費方案與核心能力", "tip": "適合誰", "scene": "注意/坑", "miss": "未收錄該產品，換個名字或看下方全量對照表。"};
+window.THEAD = ["產品", "類型", "免費額度", "付費方案與核心能力"];
