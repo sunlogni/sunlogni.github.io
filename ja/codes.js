@@ -65,5 +65,5 @@ window.CODES = {
  }
 };
 window.ALIAS = {"todesk": "ToDesk", "anydesk": "AnyDesk", "teamviewer": "TeamViewer", "rustdesk": "RustDesk", "rdp": "Microsoft リモートデスクトップ", "microsoft": "Microsoft リモートデスクトップ", "chrome": "Chrome リモートデスクトップ", "google": "Chrome リモートデスクトップ", "クイック": "Windows クイック アシスト", "quick": "Windows クイック アシスト", "ひまわり": "ひまわり(Sunlogin)", "sunlogin": "ひまわり(Sunlogin)", "向日葵": "ひまわり(Sunlogin)"};
-window.LABELS={cat:"",msg:"提供元/位置づけ",self:"無料枠",hw:"有料プランと主要機能",tip:"おすすめ",scene:"注意点",miss:"未収録です。別名で検索するか下の表をご覧ください。"};
-window.THEAD=["製品","タイプ","無料枠","有料プランと主要機能"];
+window.LABELS = {"cat": "", "msg": "提供元/位置づけ", "self": "無料枠", "hw": "有料プランと主要機能", "tip": "おすすめ", "scene": "注意点", "miss": "未収録です。別名で検索するか下の表をご覧ください。"};
+window.THEAD = ["製品", "タイプ", "無料枠", "有料プランと主要機能"];
