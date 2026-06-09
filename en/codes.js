@@ -65,5 +65,5 @@ window.CODES = {
  }
 };
 window.ALIAS = {"todesk": "ToDesk", "anydesk": "AnyDesk", "teamviewer": "TeamViewer", "tv": "TeamViewer", "rustdesk": "RustDesk", "rdp": "Microsoft Remote Desktop", "mstsc": "Microsoft Remote Desktop", "microsoft": "Microsoft Remote Desktop", "windows rdp": "Microsoft Remote Desktop", "chrome": "Chrome Remote Desktop", "google": "Chrome Remote Desktop", "quick assist": "Windows Quick Assist", "quickassist": "Windows Quick Assist", "sunlogin": "Sunlogin", "oray": "Sunlogin", "向日葵": "Sunlogin"};
-window.LABELS={cat:"",msg:"Vendor / position",self:"Free tier",hw:"Paid tiers & key features",tip:"Best for",scene:"Watch out",miss:"Not listed — try another name or see the full table below."};
-window.THEAD=["Product","Type","Free tier","Paid tiers & key features"];
+window.LABELS = {"cat": "", "msg": "Vendor / position", "self": "Free tier", "hw": "Paid tiers & key features", "tip": "Best for", "scene": "Watch out", "miss": "Not listed — try another name or see the full table below."};
+window.THEAD = ["Product", "Type", "Free tier", "Paid tiers & key features"];
